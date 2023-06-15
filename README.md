@@ -8,56 +8,56 @@ Use Beautiful Soup to scrape data from 100+ websites for a simple analysis.
 The following libraries are required to run the code. Use the following commands to install the libraries.
 
 ### Pandas
-> #### conda
+> ### conda
 > 
 > conda install pandas
 >
-> # or PyPI
+> ### or PyPI
 > 
 > pip install pandas
 
 ### Requests
-> # conda
+> ### conda
 > 
 > conda install -c anaconda requests
 >
-> # or PyPI
+> ### or PyPI
 > 
 > pip install requests
 
 ### Beautiful Soup
-> # conda
+> ### conda
 > 
 > conda install -c anaconda beautifulsoup4
 >
-> # or PyPI
+> ### or PyPI
 > 
 > pip install beautifulsoup4
 
 ### openpyxl
-> # conda
+> ### conda
 > 
 > conda install -c anaconda openpyxl
 >
-> # or PyPI
+> ### or PyPI
 > 
 > pip install openpyxl
 
 ### nltk
-> # conda
+> ### conda
 > 
 > conda install -c anaconda nltk
 >
-> # or PyPI
+> ### or PyPI
 > 
 > pip install nltk
 
 ### Regex
-> # conda
+> ### conda
 > 
 > conda install -c conda-forge regex
 >
-> # or PyPI
+> ### or PyPI
 > 
 > pip install regex
 
