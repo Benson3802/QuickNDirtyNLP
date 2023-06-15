@@ -1,6 +1,9 @@
 # QuickNDirtyNLP
 Use Beautiful Soup to scrape data from 100+ websites for a simple analysis.
 
+## 1	Objective
+The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
+
 > **Note**
 > While scraping data from websites, always ensure that you are legally allowed to do so. Contact the owner of the website for details on what you can or cannot do. 
 
@@ -61,10 +64,6 @@ The following libraries are required to run the code. Use the following commands
 > 
 > pip install regex
 
-
-
-## 1	Objective
-The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 
 ## 2	Data Extraction
 **Input.xlsx**
