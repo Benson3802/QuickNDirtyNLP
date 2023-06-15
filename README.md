@@ -23,6 +23,7 @@ We convert the text into a list of tokens using the nltk tokenize module and use
 > Polarity Score = (Positive Score – Negative Score)/ ((Positive Score + Negative Score) + 0.000001)
 > 
 > Range is from -1 to +1
+
 **Subjectivity Score**: This is the score that determines if a given text is objective or subjective. It is calculated by using the formula: 
 > Subjectivity Score = (Positive Score + Negative Score)/ ((Total Words after cleaning) + 0.000001)
 > 
