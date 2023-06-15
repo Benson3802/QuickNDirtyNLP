@@ -4,6 +4,64 @@ Use Beautiful Soup to scrape data from 100+ websites for a simple analysis.
 > **Note**
 > While scraping data from websites, always ensure that you are legally allowed to do so. Contact the owner of the website for details on what you can or cannot do. 
 
+## Prerequisites
+The following libraries are required to run the code. Use the following commands to install the libraries.
+
+### Pandas
+> # conda
+> 
+> conda install pandas
+>
+> # or PyPI
+> 
+> pip install pandas
+
+### Requests
+> # conda
+> 
+> conda install -c anaconda requests
+>
+> # or PyPI
+> 
+> pip install requests
+
+### Beautiful Soup
+> # conda
+> 
+> conda install -c anaconda beautifulsoup4
+>
+> # or PyPI
+> 
+> pip install beautifulsoup4
+
+### openpyxl
+> # conda
+> 
+> conda install -c anaconda openpyxl
+>
+> # or PyPI
+> 
+> pip install openpyxl
+
+### nltk
+> # conda
+> 
+> conda install -c anaconda nltk
+>
+> # or PyPI
+> 
+> pip install nltk
+
+### Regex
+> # conda
+> 
+> conda install -c conda-forge regex
+>
+> # or PyPI
+> 
+> pip install regex
+
+
 
 ## 1	Objective
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
